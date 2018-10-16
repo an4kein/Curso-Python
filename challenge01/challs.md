@@ -1,4 +1,4 @@
-#### Curso Python #04
+#### Curso Python #04  https://www.youtube.com/watch?v=31llNGKWDdo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=4
 
 ####  Create a Python script that reads a person name and show a welcome message according to the value entered.
 ```
