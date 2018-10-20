@@ -12,4 +12,6 @@ print(f'Dobro: {dobro}, Triplo: {triplo}, Raiz: {raiz:.3f}')
 """
 
 valor = int(input('Input: '))
-print(' O Valor eh {},\n Dobro {}, \n Triplo {}, \n Raiz {}'.format(valor, (valor*2), (valor*3), (valor**(1/2))))
+print(' O Valor eh {},\n Dobro {}, \n Triplo {}, \n Raiz {:.2f}'.format(valor, (valor*2), (valor*3), (valor**(1/2))))
+
+print('Raiz: {}'.format(pow(valor, (1/2))))
